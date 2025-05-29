@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Student<br>
+Explorer.Coder.Learner<br>
 
 
 ## 🌐 Socials:
