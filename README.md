@@ -78,11 +78,6 @@ Hi there! I'm **Ritupan Deka** – an **Explorer · Coder · Learner** who loves
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ritupan-Deka&theme=onestar&no-bg=false&no-frame=false&margin-w=8)
-
----
-
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ritupan-Deka&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
