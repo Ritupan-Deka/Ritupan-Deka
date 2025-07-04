@@ -1,7 +1,7 @@
 # 💫 About Me
-## **Ritupan Deka** –  **Explorer · Coder · Learner**
+### **Ritupan Deka** –  **Explorer · Coder · Learner**
 
-## I **build** things. I **break** things . I **rebuild** them "Better".
+### I **BUILD** things. I **BREAK** things . I **REBUILD** them "Better".
 
 ---
 
@@ -86,7 +86,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ritupan-Deka&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
 -->
+<!--
 ## 📈 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=Ritupan-Deka&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 <!-- Created with ❤️ using GPRM (https://gprm.itsvg.in) -->
