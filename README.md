@@ -12,6 +12,8 @@ Hi there! I'm **Ritupan Deka** – an **Explorer · Coder · Learner** who loves
 ---
 
 ## 💻 Tech Stack
+### **The one that gets the job done.**
+<!--
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -67,21 +69,21 @@ Hi there! I'm **Ritupan Deka** – an **Explorer · Coder · Learner** who loves
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
-
+-->
 ---
 <!--
 ## 📊 GitHub Stats
 | Stats | Streak | Top Languages |
 |:--:|:--:|:--:|
 | ![](https://github-readme-stats.vercel.app/api?username=Ritupan-Deka&theme=nord&hide_border=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=Ritupan-Deka&theme=nord&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritupan-Deka&theme=nord&layout=compact&hide_border=false) |
+-->
 
 ---
-
+<!--
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ritupan-Deka&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
 -->
+---
 ## 📈 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=Ritupan-Deka&icon=0&color=0)](https://visitcount.itsvg.in)
 
