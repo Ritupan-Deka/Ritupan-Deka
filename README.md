@@ -1,5 +1,6 @@
 # 💫 About Me
-Hi there! I'm **Ritupan Deka** – an **Explorer · Coder · Learner** who loves building, breaking, and rebuilding tech.
+**Ritupan Deka** –  **Explorer · Coder · Learner** 
+> I **build** things. I **break** things . I **rebuild** them "Better".
 
 ---
 
