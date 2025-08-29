@@ -1,7 +1,7 @@
 # 💫 About Me
 ### **Ritupan Deka** –  **Explorer · Coder · Learner**
 
-### I **BUILD** things. I **BREAK** things . I **REBUILD** them "Better".
+<!-- ### I **BUILD** things. I **BREAK** things . I **REBUILD** them "Better".-->
 
 ---
 
